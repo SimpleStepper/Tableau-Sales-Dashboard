@@ -3,12 +3,14 @@
 ---
 ![Tableau gif](https://github.com/user-attachments/assets/7c8b4557-4b38-4da2-9463-e3b7dba06a64)
 
-The goal of this project was to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. The dashboard serves as a tool for marketing and management teams to understand key performance indicators (KPIs) for both Sales and Customer insights. The final interactive dashboard as shown in the gif can be viewed on Tableau Public here: [Sales & Customer Dashboard](https://public.tableau.com/app/profile/robert.smith7087/viz/shared/QQRF2PZGP)
+The goal of this project was to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. The dashboard serves as a tool for marketing and management teams to understand key performance indicators (KPIs) for both Sales and Customer insights. 
+
+The final interactive dashboard can be viewed on Tableau Public here: [Sales & Customer Dashboard](https://public.tableau.com/app/profile/robert.smith7087/viz/shared/QQRF2PZGP)
 
 --- 
 
 ## The Task 
-### Below is a email recieved requesting information 
+### Below is a email recieved requesting a interactive dashboard that includes both Sales and Customer insights
 <img width="733" height="484" alt="image" src="https://github.com/user-attachments/assets/cecefae9-9f51-4bc5-a26f-543f71108340" />
 
 This document was provided with a data set to build a Tableau dashboard fulfilling the requested insights needed by a marketing team. From this email, we have decerned that the client wants: 
