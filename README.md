@@ -3,7 +3,7 @@
 ---
 ![Tableau gif](https://github.com/user-attachments/assets/7c8b4557-4b38-4da2-9463-e3b7dba06a64)
 
-The goal of this project was to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. The dashboard serves as a tool for marketing and management teams to understand key performance indicators (KPIs) for both Sales and Customer insights. 
+The goal of this project was to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. The dashboard serves as a tool for marketing and management teams to understand key performance indicators (KPIs) for both Sales and Customer insights. While this project focuses on the creation of the "customers" dashboard, both dashboards were created by me in request of the client below.
 
 The final interactive dashboard can be viewed on Tableau Public here: [Sales & Customer Dashboard](https://public.tableau.com/app/profile/robert.smith7087/viz/shared/QQRF2PZGP)
 
@@ -19,12 +19,8 @@ This document was provided with a data set to build a Tableau dashboard fulfilli
 - A new dashboard attached to our previously made Sales dashboard that allows quick and actionable insights into customer trends
 
 2. **KPI Overview**
-
-Three key performance indicators were developed to summarize customer activity:
-- **Total Number of Customers**
-- **Total Sales Per Customer**
-- **Total Number of Orders**
-Each KPI is visualized using **line charts**, allowing users to observe **monthly trends over two years (current and previous)**.
+- Three key performance indicators were developed to summarize customer activity: Total Number of Customers, Total Sales Per Customer, Total Number of Orders
+- Each KPI is visualized using **line charts**, allowing users to observe **monthly trends over two years (current and previous)**.
 
 3. **Customer Distribution by Number of Orders**
 
