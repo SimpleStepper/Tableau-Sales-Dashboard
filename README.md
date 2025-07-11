@@ -19,22 +19,20 @@ This document was provided with a data set to build a Tableau dashboard fulfilli
    - A new dashboard attached to our previously made Sales dashboard that allows quick and actionable insights into customer trends
     
 2) **KPI Overview**
-- Three key performance indicators were developed to summarize customer activity: Total Number of Customers, Total Sales Per Customer, Total Number of Orders
-- Each KPI is visualized using **line charts**, allowing users to observe **monthly trends over two years (current and previous)**.
+   - Three key performance indicators were developed to summarize customer activity: Total Number of Customers, Total Sales Per Customer, Total Number of Orders
+   - Each KPI is visualized using **line charts**, allowing users to observe **monthly trends over two years (current and previous)**.
 
  3) **Customer Distribution by Number of Orders**
-- A **bar chart with frequency bins** created to show how customers are distributed based on the number of orders placed.
-- Align customer orders in fruequency bins to allow quick insights into the average number of orders each customer makes.
+   - A **bar chart with frequency bins** created to show how customers are distributed based on the number of orders placed.
+   - Align customer orders in fruequency bins to allow quick insights into the average number of orders each customer makes.
 
 4. **Top 10 Customers by Profit**
-
-- A **ranked table** that displays the top 10 customers contributing the most profit.
-- This should include customer data such as: Customer Rank, Name, current sale's, current profit, order date and Number of Orders made.
+   - A **ranked table** that displays the top 10 customers contributing the most profit.
+   - This should include customer data such as: Customer Rank, Name, current sale's, current profit, order date and Number of Orders made.
 
 5. **Interactivity in Dashboard**
-
-- Dashboard should be fully interactive with filters, ability to change the year, clickable charts and the ability to switch sheets easily
-- all data should be able to connect with eachother and be full interactable by the client for specific insights.
+   - Dashboard should be fully interactive with filters, ability to change the year, clickable charts and the ability to switch sheets easily
+   - all data should be able to connect with eachother and be full interactable by the client for specific insights.
 
 The final dashboard was published to Tableau Public: https://public.tableau.com/app/profile/robert.smith7087/viz/shared/QQRF2PZGP
 
