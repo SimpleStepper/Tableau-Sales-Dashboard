@@ -28,11 +28,11 @@ This document was provided with a data set to build a Tableau dashboard fulfilli
 
 4. **Top 10 Customers by Profit**
    - A **ranked table** that displays the top 10 customers contributing the most profit.
-   - This should include customer data such as: Customer Rank, Name, current sale's, current profit, order date and Number of Orders made.
+   - This should include customer data such as: Customer Rank, Name, Current sale's, Current profit, Order date and Number of Orders made.
 
 5. **Interactivity in Dashboard**
-   - Dashboard should be fully interactive with filters, ability to change the year, clickable charts and the ability to switch sheets easily
-   - all data should be able to connect with eachother and be full interactable by the client for specific insights.
+   - Dashboard should be **fully interactive with filters**, ability to change the year, clickable charts and the ability to switch sheets easily
+   - all **data should connect with eachother** and be full interactable by the client for specific insights.
 
 The final dashboard was published to Tableau Public: https://public.tableau.com/app/profile/robert.smith7087/viz/shared/QQRF2PZGP
 
