@@ -7,7 +7,8 @@ The goal of this project was to create an interactive customer dashboard in Tabl
 
 --- 
 
-## Task - 
+## The Task 
+### Below is a email recieved requesting information 
 <img width="733" height="484" alt="image" src="https://github.com/user-attachments/assets/cecefae9-9f51-4bc5-a26f-543f71108340" />
 
 This document was provided with a data set to build a Tableau dashboard fulfilling the requested insights needed by a marketing team. From this email, we have decerned that the client wants: 
