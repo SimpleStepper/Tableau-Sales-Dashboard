@@ -23,8 +23,8 @@ This document was provided with a data set to build a Tableau dashboard fulfilli
    - Each KPI is visualized using **line charts**, allowing users to observe **monthly trends over two years (current and previous)**.
 
  3) **Customer Distribution by Number of Orders**
-   - A **bar chart with frequency bins** created to show how customers are distributed based on the number of orders placed.
-   - Align customer orders in fruequency bins to allow quick insights into the average number of orders each customer makes.
+      - A **bar chart with frequency bins** created to show how customers are distributed based on the number of orders placed.
+      - Align customer orders in fruequency bins to allow quick insights into the average number of orders each customer makes.
 
 4. **Top 10 Customers by Profit**
    - A **ranked table** that displays the top 10 customers contributing the most profit.
