@@ -15,14 +15,14 @@ The final interactive dashboard can be viewed on Tableau Public here: [Sales & C
 
 This document was provided with a data set to build a Tableau dashboard fulfilling the requested insights needed by a marketing team. From this email, we have decerned that the client wants: 
 
-1.**Create Customer Dashboard (attached to sales dashboard)**
-- A new dashboard attached to our previously made Sales dashboard that allows quick and actionable insights into customer trends
-2. **KPI Overview**
+1) **Create Customer Dashboard (attached to sales dashboard)**
+   - A new dashboard attached to our previously made Sales dashboard that allows quick and actionable insights into customer trends
+    
+2) **KPI Overview**
 - Three key performance indicators were developed to summarize customer activity: Total Number of Customers, Total Sales Per Customer, Total Number of Orders
 - Each KPI is visualized using **line charts**, allowing users to observe **monthly trends over two years (current and previous)**.
 
-3. **Customer Distribution by Number of Orders**
-
+ 3) **Customer Distribution by Number of Orders**
 - A **bar chart with frequency bins** created to show how customers are distributed based on the number of orders placed.
 - Align customer orders in fruequency bins to allow quick insights into the average number of orders each customer makes.
 
